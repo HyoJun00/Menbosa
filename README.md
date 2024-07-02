@@ -5,6 +5,7 @@
   <li>팀명/팀 구성</li>
   <li>프로젝트 주제</li>
   <li>Skill</li>
+  <li>서비스 흐름도</li>
   <li>ERD 구성</li>
   <li>기능 소개</li>
 </ul>
@@ -49,46 +50,75 @@
 <h4>데이터 베이스</h4>
 <span><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"></span>
 
+<h2>📊서비스 흐름도</h2>
+<img src="https://github.com/HyoJun00/Menbosa/assets/157595885/5690c32e-b9b8-48cc-af6d-3c8e5cabd0ee">
+
+<h2>🖥️ERD 구성도</h2>
+<img src="https://github.com/HyoJun00/Menbosa/assets/157595885/d3a6ee86-427b-45d2-aa1f-dc6f02e2f69f">
+
 <h2>💻기능 소개</h2>
-<h4>1.메인 자동 슬라이드 배너</h4>
+
+<h4>회원 구분</h4>
 <ul>
-  <li>3초 간격으로 자동으로 다음 슬라이드로 이동</li>
-  <li>마지막 슬라이드가 나올면 첫번째 슬라이드로 이동</li>
+  <li></li>
 </ul>
-<img src="https://github.com/HyoJun00/clone_coding/assets/157595885/6589dedb-5d1b-4b12-8373-e23c3c8ec6c6">
+<img width="1920" alt="1 시작페이지(구분)" src="https://github.com/HyoJun00/Menbosa/assets/157595885/e4654f18-0af0-414e-bd3b-f72083fa25aa">
 
-<h4>2.검색창</h4>
+<h4>로그인</h4>
 <ul>
-  <li>검색창 클릭 시 드롭다운 창 생성</li>
-  <li>키워드 클릭 시 키워드에 맞는 내용 표출</li>
+  <li></li>
 </ul>
-<img src="https://github.com/HyoJun00/clone_coding/assets/157595885/dabc5db1-7aeb-4502-8c5d-b6bf3f233619">
+<img width="950" alt="2 보호자 로그인페이지" src="https://github.com/HyoJun00/Menbosa/assets/157595885/3a2fde1a-70ad-4c5a-b9e6-90dc696742f2">
+<img width="950" alt="24 어르신 로그인페이지" src="https://github.com/HyoJun00/Menbosa/assets/157595885/17ae310c-7cf5-45e0-bd26-0f5f5ccbbce2">
 
-<h4>3.컨텐츠 슬라이드 배너</h4>
+
+
+<h4>회원가입</h4>
 <ul>
-  <li>다음 버튼 클릭 시 다음 슬라이드로 이동</li>
-  <li>다음으로 이동할 슬라이드가 없을 시 다음 버튼 숨김</li>
-  <li>이전으로 이동할 슬라이드가 없을 시 이전 버튼 숨김</li>
+  <li></li>
 </ul>
-<img src="https://github.com/HyoJun00/clone_coding/assets/157595885/7a85b53e-c0b1-438b-8a6d-f1ef7abb0f07">
+<img width="1920" alt="3 보호자 회원가입페이지" src="https://github.com/HyoJun00/Menbosa/assets/157595885/9131916b-5471-4e0c-bab5-c09371b4f655">
 
-<h4>4.회원가입</h4>
+<h4>메인</h4>
 <ul>
-  <li>입력창에 값을 넣지 않으면 경고 메시지를 생성하는 유효성 검사 구현</li>
-  <li>입력창에 값을 제대로 입력 시 경고 메시지 숨김</li>
-  <li>전체동의 클릭 시 모든 체크박스가 체크되는 약관동의 체크박스 구현</li>
+  <li></li>
 </ul>
-<img src="https://github.com/HyoJun00/clone_coding/assets/157595885/e44b9aaf-ffdb-46a4-a32f-001d56f7909a">
+<img width="1920" alt="4 보호자 메인페이지" src="https://github.com/HyoJun00/Menbosa/assets/157595885/f68bb879-41ce-4543-892b-f64deea31e31">
 
-<h4>5.로그인</h4>
+<h4>소개/안내</h4>
 <ul>
-  <li>입력창에 값을 넣지 않으면 경고 메시지를 생성하는 유효성 검사 구현</li>
-  <li>입력창에 값을 제대로 입력 시 경고 메시지 숨김</li>
+  <li></li>
 </ul>
-<img src="https://github.com/HyoJun00/clone_coding/assets/157595885/7848e62b-0314-4eeb-9561-791bfbf20f7d">
+<img width="1920" alt="6 보호자 소개페이지" src="https://github.com/HyoJun00/Menbosa/assets/157595885/7a9b1615-7f62-42b6-abf0-d7e0055daa2d">
+
+<h4>시설추천</h4>
+<ul>
+  <li></li>
+</ul>
+<img width="1920" alt="5 시설추천페이지" src="https://github.com/HyoJun00/Menbosa/assets/157595885/48152a1f-3c21-4638-8ba9-06381d8adb69">
+
+<h4>설문/검사</h4>
+<ul>
+  <li></li>
+</ul>
+<img width="1920" alt="7 설문검사 구분페이지" src="https://github.com/HyoJun00/Menbosa/assets/157595885/2448035f-a538-44c9-a3c1-3bc5e24f7fb2">
+<img width="1920" alt="8 보호자 설문페이지" src="https://github.com/HyoJun00/Menbosa/assets/157595885/42be7690-ada8-4896-a73d-57ea44fe9f49">
+<img width="1920" alt="8 보호자 설문결과페이지" src="https://github.com/HyoJun00/Menbosa/assets/157595885/a5d7aeb3-deeb-4eb5-b175-d71a238701ff">
+
+<h4>커뮤니티</h4>
+<ul>
+  <li></li>
+</ul>
+<img width="1920" alt="11 시설후기페이지" src="https://github.com/HyoJun00/Menbosa/assets/157595885/8ac00776-0e8e-447f-a25e-200bf75d9dfe">
+<img width="1920" alt="17 시설후기 글 작성페이지" src="https://github.com/HyoJun00/Menbosa/assets/157595885/f4708262-7db0-4350-a2d1-f430cad44f88">
+<img width="1920" alt="15 시설후기 상세페이지" src="https://github.com/HyoJun00/Menbosa/assets/157595885/efa1f129-8b35-4718-9861-9cdcac3d07be">
 
 
-
+<h4>마이페이지</h4>
+<ul>
+  <li></li>
+</ul>
+<img width="1920" alt="18 마이페이지" src="https://github.com/HyoJun00/Menbosa/assets/157595885/1a4fd1dd-3746-4ff5-9090-463707c9112c">
 
 
 
