@@ -1,4 +1,4 @@
-<h1><img src="">알흠 팀 프로젝트</h1>
+<h1>💼팀 프로젝트 알흠</h1>
 
 <h2>📖목차</h2>
 <ul>
@@ -11,21 +11,43 @@
 
 <h2>👨‍👩‍👧‍👦팀명/팀 구성</h2>
 
+<h3>맨보사</h3>
+<p>맨날 보는 사람들의 줄임말로, 항상 마주보며 소통하고 친밀감을 공유하는 특별한 분위기를 표현</p>
+
+|팀장|양효준|           
+|:--:|:--:|
+|부팀장|김주선| 
+|팀원|김민주| 
+|팀원|한지윤| 
+|팀원|장서혁| 
+
 
 <h2>📚프로젝트 주제</h2>
 <ul>
-  <li>코딩하는 습관을 들이기에 좋다.</li>
-  <li>내가 사용했던 서비스들이 어떠한 방식으로 작동되는 지 이해할 수 있다.</li>
-  <li>프로젝트를 기획하는데 시간을 들일 필요없이 코딩 실력 향상에 집중할 수 있다.</li>
-  <li>빠르게 결과물을 냄으로써 큰 보람을 얻을 수 있다.</li>
+  <li>고령화 : 고령 운전자 면허 갱신을 미니게임 테스트로 진행하는 것에 영감을 받았습니다.</li>
+  <li>인지 건강 : 고령인을 모시고 있는 보호자와 고령자 본인에게 도움을 줄 수 있는 서비스를 제공하고자 합니다.</li>
+  <li>병원 및 시설 정보 : 검사를 통해 산정된 결과로 위험도를 확인하고 병원 및 노인복지시설, 요양원 정보를 검색 및 공유할 수 있습니다.</li>
 </ul>
 
 <h2>🛠️Skills</h2>
+
+<h4>커뮤니케이션</h4>
+<span><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></span> <span><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></span>
+
 <h4>파일 관리</h4>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+
+<h4>화면 구현</h4>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
 <h4>사용 언어</h4>
 <span><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></span> <span><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></span> <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-</span>
+</span> 
+<br>
+<span><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></span> <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></span> <span><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></span>
+
+<h4>데이터 베이스</h4>
+<span><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"></span>
 
 <h2>💻기능 소개</h2>
 <h4>1.메인 자동 슬라이드 배너</h4>
