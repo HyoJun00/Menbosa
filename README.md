@@ -103,38 +103,85 @@ https://github.com/HyoJun00/Menbosa/assets/157595885/aef4cce7-ca0a-488e-b382-172
 
 <h4>소개/안내</h4>
 <ul>
-  <li></li>
+  <li>헤더에 있는 소개/안내 메뉴를 클릭 시 페이지에 대한 간단한 소개와 테스트로 넘어갈 수 있는 버튼이 구현되어있습니다.</li>
 </ul>
-<img width="1920" alt="6 보호자 소개페이지" src="https://github.com/HyoJun00/Menbosa/assets/157595885/7a9b1615-7f62-42b6-abf0-d7e0055daa2d">
+
+https://github.com/HyoJun00/Menbosa/assets/157595885/e1a4f0bb-7aad-4ea7-8a43-3c385eaf3ab2
+
+<br>
 
 <h4>시설추천</h4>
 <ul>
-  <li></li>
+  <li>헤더에 있는 시설추천 메뉴를 클릭 시 카카오맵 API를 활용한 지도가 나오고 키워드를 통해 시설을 찾을 수 있습니다.</li>
 </ul>
-<img width="1920" alt="5 시설추천페이지" src="https://github.com/HyoJun00/Menbosa/assets/157595885/48152a1f-3c21-4638-8ba9-06381d8adb69">
+
+https://github.com/HyoJun00/Menbosa/assets/157595885/a9cd2cbb-1ced-4f53-8660-ca2979693752
+
+<br>
 
 <h4>설문/검사</h4>
 <ul>
-  <li></li>
+  <li>간단한 문항들로 설문에 참여하여 양호, 주의, 위험 총 3단계로 결과를 확인하고 자신의 건강상태를 확인할 수 있습니다.</li>
 </ul>
-<img width="1920" alt="7 설문검사 구분페이지" src="https://github.com/HyoJun00/Menbosa/assets/157595885/2448035f-a538-44c9-a3c1-3bc5e24f7fb2">
-<img width="1920" alt="8 보호자 설문페이지" src="https://github.com/HyoJun00/Menbosa/assets/157595885/42be7690-ada8-4896-a73d-57ea44fe9f49">
-<img width="1920" alt="8 보호자 설문결과페이지" src="https://github.com/HyoJun00/Menbosa/assets/157595885/a5d7aeb3-deeb-4eb5-b175-d71a238701ff">
+
+https://github.com/HyoJun00/Menbosa/assets/157595885/80f460e7-54b9-4a25-9a62-6ac301b3ef49
+
+<br>
 
 <h4>커뮤니티</h4>
 <ul>
-  <li></li>
+  <li>커뮤니티에서는 페이지의 공지사항, 사용자분들이 소통할 수 있는 게시판, 자주하는 질문 등 주제에 맞게 게시글을 등록할 수 있습니다.</li>
+  <li>상세페이지에서는 게시글을 수정, 삭제할 수 있고 댓글을 작성할 수 있습니다. 댓글은 사용자 본인이 작성한 댓글만 삭제할 수 있습니다.</li>
+  <li>글쓰기에서는 사진 파일을 같이 등록할 수 있습니다.</li>
 </ul>
-<img width="1920" alt="11 시설후기페이지" src="https://github.com/HyoJun00/Menbosa/assets/157595885/8ac00776-0e8e-447f-a25e-200bf75d9dfe">
-<img width="1920" alt="17 시설후기 글 작성페이지" src="https://github.com/HyoJun00/Menbosa/assets/157595885/f4708262-7db0-4350-a2d1-f430cad44f88">
-<img width="1920" alt="15 시설후기 상세페이지" src="https://github.com/HyoJun00/Menbosa/assets/157595885/efa1f129-8b35-4718-9861-9cdcac3d07be">
 
+https://github.com/HyoJun00/Menbosa/assets/157595885/59b6d1d1-13f2-486e-86e9-0b6ca1e1b598
+
+https://github.com/HyoJun00/Menbosa/assets/157595885/5114d45f-cca6-45e2-ba99-484e883ccf33
+
+https://github.com/HyoJun00/Menbosa/assets/157595885/8ad6b847-ebf9-41ae-ab2d-4ef96faffb8c
+
+https://github.com/HyoJun00/Menbosa/assets/157595885/6af03979-c49b-4090-8d29-5afd39b6b39a
+
+<br>
 
 <h4>마이페이지</h4>
 <ul>
-  <li></li>
+  <li>우측 상단에 프로필을 누르면 마이페이지로 넘어가게되고 사용자 본인이 작성한 게시글을 볼 수 있습니다.</li>
+  <li>마이페이지에서 어르신 정보를 추가하여 관리할 수 있고, 어르신 추가 버튼 클릭 시 문자인증을 통해 어르신 본인확인을 거친 후 등록할 수 있게됩니다.</li>
+  <li>1:1문의에서는 문의사항이나 전화번호 변경 등 불편사항을 문의할 수 있습니다.</li>
+  <li>로그아웃 버튼 클릭 시 로그인 화면으로 넘어가게됩니다.</li>
+  <li>회원 탈퇴 시 계정이 사라지고 다시 탈퇴한 계정으로 로그인 할 수 없게됩니다.</li>
 </ul>
-<img width="1920" alt="18 마이페이지" src="https://github.com/HyoJun00/Menbosa/assets/157595885/1a4fd1dd-3746-4ff5-9090-463707c9112c">
+
+https://github.com/HyoJun00/Menbosa/assets/157595885/7b659eda-8b1a-46cf-b59f-04163c26ddca
+
+https://github.com/HyoJun00/Menbosa/assets/157595885/67874f5c-a9d6-4ddd-bcdc-fbb2fa17621d
+
+https://github.com/HyoJun00/Menbosa/assets/157595885/d4f2f8c1-0793-4166-8184-6a11d4a20832
+
+https://github.com/HyoJun00/Menbosa/assets/157595885/6645ebc4-061e-460c-b7c5-9941df7e211a
+
+https://github.com/HyoJun00/Menbosa/assets/157595885/94d894ab-b48d-4fdb-861f-a74371e5c044
+
+https://github.com/HyoJun00/Menbosa/assets/157595885/3d9cc275-62b4-49f1-8670-3e0376b30105
+
+<br>
+
+<h4>어르신 페이지</h4>
+<ul>
+  <li>어르신 로그인 과정을 거친 후 어르신 페이지로 넘어가게됩니다. 고령분들에 맞춰 폰트나 UI가 전체적으로 크게 설계되어 있습니다.</li>
+  <li>검사하러가기 클릭 시 테스트 후 결과가 정답 개수 기준으로 나뉘어 양호, 주의, 위험 총 3단계로 결과를 확인하고 어르신의 건강상태를 확인할 수 있습니다.</li>
+</ul>
+
+https://github.com/HyoJun00/Menbosa/assets/157595885/71c8af48-e30b-43ab-967f-bf5ae80530c8
+
+https://github.com/HyoJun00/Menbosa/assets/157595885/21d3a3a8-f077-4675-a5d0-c64fba7fc75e
+
+https://github.com/HyoJun00/Menbosa/assets/157595885/bf9788f7-fbb5-4e56-a6d5-96d432c0d967
+
+
+
 
 
 
