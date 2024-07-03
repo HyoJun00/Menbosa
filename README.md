@@ -60,30 +60,46 @@
 
 <h4>회원 구분</h4>
 <ul>
-  <li></li>
+  <li>알흠의 첫 시작페이지는 보호자와 어르신을 구분하는 페이지 입니다.</li>
+  <li>보호자 클릭 시 보호자 로그인 화면으로 넘어가고, 어르신 클릭 시 어르신 로그인 화면으로 넘어가게됩니다.</li>
 </ul>
-<img width="1920" alt="1 시작페이지(구분)" src="https://github.com/HyoJun00/Menbosa/assets/157595885/e4654f18-0af0-414e-bd3b-f72083fa25aa">
+
+https://github.com/HyoJun00/Menbosa/assets/157595885/c4ea23cb-2ecc-45ba-a2f3-8ff80d515999
+
+https://github.com/HyoJun00/Menbosa/assets/157595885/d2401c7d-c2df-4cb9-8d77-ff1131a3f35d
+
+<br>
 
 <h4>로그인</h4>
 <ul>
-  <li></li>
+  <li>로그인에서는 전화번호와 비밀번호를 입력받고 올바른 정보 입력 시 각각의 메인페이지로 넘어가게됩니다.</li>
 </ul>
-<img width="950" alt="2 보호자 로그인페이지" src="https://github.com/HyoJun00/Menbosa/assets/157595885/3a2fde1a-70ad-4c5a-b9e6-90dc696742f2">
-<img width="950" alt="24 어르신 로그인페이지" src="https://github.com/HyoJun00/Menbosa/assets/157595885/17ae310c-7cf5-45e0-bd26-0f5f5ccbbce2">
 
+https://github.com/HyoJun00/Menbosa/assets/157595885/752c795d-d63c-44a2-a678-bdea34f5f235
 
+https://github.com/HyoJun00/Menbosa/assets/157595885/999ec14e-c820-41a0-945e-bae82f00b7ff
+
+<br>
 
 <h4>회원가입</h4>
 <ul>
-  <li></li>
+  <li>회원가입 시 정보 입력 칸에 올바른 정보를 입력하고 약관동의를 모두 체크하게되면 회원가입이 완료됩니다.</li>
 </ul>
-<img width="1920" alt="3 보호자 회원가입페이지" src="https://github.com/HyoJun00/Menbosa/assets/157595885/9131916b-5471-4e0c-bab5-c09371b4f655">
+
+https://github.com/HyoJun00/Menbosa/assets/157595885/5b1fcf36-d9bd-4c94-a6ed-243434e13ce5
+
+https://github.com/HyoJun00/Menbosa/assets/157595885/9a09922e-4086-499b-b1b4-dea5f6b4a426
+
+<br>
 
 <h4>메인</h4>
 <ul>
-  <li></li>
+  <li>메인페이지로 넘어가게되면 공지사항을 확인할 수 있는 배너와 광고배너가 구현되어있습니다.</li>
 </ul>
-<img width="1920" alt="4 보호자 메인페이지" src="https://github.com/HyoJun00/Menbosa/assets/157595885/f68bb879-41ce-4543-892b-f64deea31e31">
+
+https://github.com/HyoJun00/Menbosa/assets/157595885/aef4cce7-ca0a-488e-b382-172f071fb22c
+
+<br>
 
 <h4>소개/안내</h4>
 <ul>
